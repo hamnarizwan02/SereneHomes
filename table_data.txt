@@ -1,0 +1,2 @@
+Booking ID	Customer ID	Property ID	Check-in Date	Check-out Date	Bill Amount
+16	29	3	2023-12-08	2023-12-17	720.0
